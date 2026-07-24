@@ -8,9 +8,7 @@ Atmospheric Horror Games
 
 # Welcome
 
-Silent Bloom Interactive is an independent UK game studio focused on creating atmospheric horror, puzzle, and experimental games.
-
-We're currently developing our first commercial title while documenting our journey as an indie studio.
+Silent Bloom Interactive is an independent UK game studio creating atmospheric, experimental games across horror, puzzle, and narrative-driven experiences.
 
 ## Currently Developing
 
