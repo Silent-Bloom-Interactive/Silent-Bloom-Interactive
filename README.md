@@ -61,7 +61,7 @@ We believe memorable horror comes from atmosphere, tension, and player imaginati
 
 ## Links
 
-🌐 <a href="https://silentbloominteractive.com">Website</a>  
-🎮 <a href="silentbloominteractive.itch.io">itch.io</a>  
+🌐 <a href="https://silentbloominteractive.com" target="_blank">Website</a>  
+🎮 <a href="silentbloominteractive.itch.io" target="_blank">itch.io</a>  
 📺 YouTube  
 🛒 Steam (Coming Soon)
