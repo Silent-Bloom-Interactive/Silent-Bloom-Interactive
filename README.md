@@ -29,7 +29,39 @@ Status:
 • Narrative
 • Experimental
 
+## Technology
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40"/><br>
+      Unity
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/><br>
+      C#
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40"/><br>
+      Blender
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/><br>
+      Git
+    </td>
+  </tr>
+</table>
+
 ## Featured Projects
 
+---
 ## Development Philosophy
 We believe memorable horror comes from atmosphere, tension, and player imagination rather than excessive jump scares.
+---
+
+## Links
+
+🌐 <a href="https://silentbloominteractive.com">Website</a>  
+🎮 <a href="silentbloominteractive.itch.io">itch.io</a>  
+📺 YouTube  
+🛒 Steam (Coming Soon)
