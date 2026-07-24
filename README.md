@@ -1,16 +1,37 @@
-## Hi there 👋
+--------------------------------------------------
 
-<!--
-**Silent-Bloom-Interactive/Silent-Bloom-Interactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Silent Bloom Interactive
 
-Here are some ideas to get you started:
+Atmospheric Horror Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------------------------------------------
+
+# Welcome
+
+Silent Bloom Interactive is an independent UK game studio focused on creating atmospheric horror, puzzle, and experimental games.
+
+We're currently developing our first commercial title while documenting our journey as an indie studio.
+
+## Currently Developing
+
+🌹 Project Bloom
+
+Our first experimental horror title exploring looping environments, unsettling atmosphere, and psychological tension.
+
+Built with Unity and C#.
+
+Status:
+🟣 Prototype Development
+
+## Genres
+
+• Horror
+• Psychological Horror
+• Puzzle
+• Narrative
+• Experimental
+
+## Featured Projects
+
+## Development Philosophy
+We believe memorable horror comes from atmosphere, tension, and player imagination rather than excessive jump scares.
