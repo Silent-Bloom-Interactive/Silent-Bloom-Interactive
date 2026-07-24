@@ -55,8 +55,10 @@ Status:
 ## Featured Projects
 
 ---
+
 ## Development Philosophy
 We believe memorable horror comes from atmosphere, tension, and player imagination rather than excessive jump scares.
+
 ---
 
 ## Links
